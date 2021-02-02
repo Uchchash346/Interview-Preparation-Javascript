@@ -1,5 +1,5 @@
-/*const numbers = [3,4,5,6,7,8];
-const output=[];
+const numbers = [3,4,5,6,7,8];
+/*const output=[];
 for (let i = 0; i < numbers.length; i++){
     const element = numbers[i];
     const result = element * element;
@@ -7,7 +7,7 @@ for (let i = 0; i < numbers.length; i++){
 }
 console.log(output);*/
 
-const numbers = [3,4,5,6,7,8];
+
 /*function square (element){
     return element * element;
 }
