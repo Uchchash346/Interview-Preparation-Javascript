@@ -11,7 +11,7 @@ console.log(output);*/
 /*function square (element){
     return element * element;
 }
-const result = numbers.map(function(element, index, array){
+const result = numbers.map(function(element, index, array){ 
     return element * element;
 })*/
 
