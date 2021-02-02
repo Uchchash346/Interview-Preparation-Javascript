@@ -7,7 +7,8 @@ const students = [
 
 const names = students.map(s => s.name);
 const idS = students.map(s => s.id);
-// Problem?
+// Filter will return all matching element 
+// Find will return only the first matching element
 const bigger = students.filter(s => s.id>40);
 const biggerOne = students.find(s => s.id>40);
 console.log(biggerOne);
